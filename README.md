@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="200" src="/Hemant Suthar.png"  />
+  <img height="200" src="/MyBanner.png"  />
 </div>
 
 ###
