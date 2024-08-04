@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **HemantSuthar7/HemantSuthar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Hemant Suthar and I'm a Full Stack Web Developer specializing in MERN stack</p>
 
 ###
 
@@ -35,7 +34,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">Passionate Full Stack Web Developer specializing in the MERN stack. With a solid foundation in MongoDB, Express.js, React, and Node.js, I thrive in crafting seamless, responsive, and user-friendly web applications. As a recent graduate, I am eager to apply my skills in real-world projects and contribute to innovative tech solutions.<br>🔭 I’m currently working on ... H-BLOG & H-KEEP (My Own Projects)<br>👯 I’m looking to collaborate on Web Development Projects<br></p>
 
 ###
 
@@ -70,9 +69,9 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+ <a href="https://www.linkedin.com/in/hemant-suthar-web7/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hemant Suthar | LinkedIn" width="30px"/></a>
+<a href="https://instagram.com/hemant___9437"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Hemant Suthar | Instagram" width="30px"/></a>
+<a href="https://x.com/Hemant_S7"><img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Hemant Suthar | Twitter" width="30px"/></a>
 </div>
 
 ###
