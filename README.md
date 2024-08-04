@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="200" src="/MyBanner.png"  />
+  <img style="width: 100vw" src="/MyBanner.png"  />
 </div>
 
 ###
@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="400" src="/javascript_certificate.jpg"  />
+  <img style="width: 70vw" src="/javascript_certificate.jpg"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="400" src="/css_certificate.jpg"  />
+  <img style="width: 70vw" src="/css_certificate.jpg"  />
 </div>
 
 ###
