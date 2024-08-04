@@ -34,9 +34,30 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Passionate Full Stack Web Developer specializing in the MERN stack. With a solid foundation in MongoDB, Express.js, React, and Node.js, I thrive in crafting seamless, responsive, and user-friendly web applications. As a recent graduate, I am eager to apply my skills in real-world projects and contribute to innovative tech solutions.<br>🔭 I’m currently working on ... H-BLOG & H-KEEP (My Own Projects)<br>👯 I’m looking to collaborate on Web Development Projects<br></p>
+<p align="left">Passionate Full Stack Web Developer specializing in the MERN stack. With a solid foundation in MongoDB, Express.js, React, and Node.js, I thrive in crafting seamless, responsive, and user-friendly web applications. As a recent graduate, I am eager to apply my skills in real-world projects and contribute to innovative tech solutions.
+  <br>
+  <br>🔭 I’m currently working on H-BLOG & H-KEEP (My Own Projects)
+  <br>👯 I’m looking to collaborate on Web Development Projects<br>
+</p>
 
 ###
+
+<h2 align="left">My Certifications : </h2>
+
+###
+
+<div align="center">
+  <img height="400" src="/javascript_certificate.jpg"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="400" src="/css_certificate.jpg"  />
+</div>
+
+###
+
 
 <h2 align="left">I code with</h2>
 
