@@ -48,18 +48,18 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img style="width: 50vw" src="/react_basic_certificate.jpg"  />
+  <img style="width: 40vw" src="/react_basic_certificate.jpg"  />
 </div>
 
 ###
 <div align="center">
-  <img style="width: 50vw" src="/javascript_certificate.jpg"  />
+  <img style="width: 40vw" src="/javascript_certificate.jpg"  />
 </div>
 
 ###
 
 <div align="center">
-  <img style="width: 50vw" src="/css_certificate.jpg"  />
+  <img style="width: 40vw" src="/css_certificate.jpg"  />
 </div>
 
 ###
