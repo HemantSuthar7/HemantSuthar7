@@ -48,6 +48,13 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
+  <img style="width: 40vw" src="/frontend_developer_react certificate.jpg"  />
+</div>
+
+
+###
+
+<div align="center">
   <img style="width: 40vw" src="/react_basic_certificate.jpg"  />
 </div>
 
