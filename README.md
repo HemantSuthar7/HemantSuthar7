@@ -41,34 +41,6 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">My Certifications : </h2>
-
-###
-
-<div align="center">
-  <img style="width: 40vw" src="/frontend_developer_react certificate.jpg"  />
-</div>
-
-
-###
-
-<div align="center">
-  <img style="width: 40vw" src="/react_basic_certificate.jpg"  />
-</div>
-
-###
-<div align="center">
-  <img style="width: 40vw" src="/javascript_certificate.jpg"  />
-</div>
-
-###
-
-<div align="center">
-  <img style="width: 40vw" src="/css_certificate.jpg"  />
-</div>
-
-###
-
 
 <h2 align="left">I code with</h2>
 
