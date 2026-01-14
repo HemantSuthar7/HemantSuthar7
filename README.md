@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Hemant Suthar and I'm a Full Stack Web Developer specializing in MERN stack</p>
+<p align="left">My name is Hemant Suthar and I'm a Full Stack Developer</p>
 
 ###
 
@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left"><b>Summary for Recruiters</b><br>Passionate Full Stack Web Developer specializing in the MERN stack. With a solid foundation in MongoDB, Express.js, React, and Node.js, I thrive in crafting seamless, responsive, and user-friendly web applications. As a recent graduate, I am eager to apply my skills in real-world projects and contribute to innovative tech solutions.
+<p align="left"><br>Passionate Full Stack Web Developer. I thrive in crafting seamless, responsive, and user-friendly web applications.
   <br>
-  <br>👯 I’m looking to collaborate on Web Development Projects<br>
 </p>
 
 ###
